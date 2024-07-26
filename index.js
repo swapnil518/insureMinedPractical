@@ -4,7 +4,8 @@ const app = express();
 const cors = require("cors");
 const morgan = require("morgan");
 const routers = require("./src/routes");
-
+const connectToDatabase = require("./src/config/db.connection");
+connectToDatabase();
 app.use(
   cors({
     origin: "*",

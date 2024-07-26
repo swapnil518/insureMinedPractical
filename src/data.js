@@ -1,0 +1,15 @@
+account_name = "Lura Lucca & Owen Dodson";
+account_type = "Commercial";
+address = "170 MATTHIAS CT";
+agent = "Alex Watson";
+category_name = "Commercial Auto";
+city = "MOCKSVILLE";
+company_name = "Integon Gen Ins Corp";
+csr = "Tami Ellison";
+dob = 21957.229282407407;
+email = "madler@yahoo.ca";
+firstname = "Lura Lucca";
+phone = 8677356559;
+policy_end_date = 43771.22928240741;
+policy_mode = 12;
+policy_number = "YEEX9MOIBU7X";
